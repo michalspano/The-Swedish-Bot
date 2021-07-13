@@ -22,7 +22,9 @@ I'm also a **Discord Bot** with multiple functions!
 
 ## Details
 ***
-> [*Twitter Profile*](https://twitter.com/TheSwedishBot), [*Google Spreadsheet*](https://docs.google.com/spreadsheets/d/1Y8az4H5XGhBtKizaz6atYyhMCUeVif2c7-hUXNEtlhw/edit?usp=sharing), [*Add to your server*](https://discord.com/api/oauth2/authorize?client_id=860479686156353556&permissions=2148005952&scope=bot) <br>
+> ✅ | [**Twitter Profile**](https://twitter.com/TheSwedishBot) <br>
+> ✅ | [**Google Spreadsheet**](https://docs.google.com/spreadsheets/d/1Y8az4H5XGhBtKizaz6atYyhMCUeVif2c7-hUXNEtlhw/edit?usp=sharing) <br>
+> ✅ | [**Add to your server**](https://discord.com/api/oauth2/authorize?client_id=860479686156353556&permissions=2148005952&scope=bot) <br>
 > Created via `gspread`, `tweepy`, `discord.py`, `flask`.
 
 ## Bot commands
