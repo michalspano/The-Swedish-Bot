@@ -44,7 +44,7 @@ use my *command prefix or command aliases* (abbreviation **CP**).
 
 ### ⏬ | **Load command**
 > - Invoke aliases: `Load`, `load`, `l` <br>
-> - Default syntax: `DBP CP operator n k`; `operator: str = None`, `n: int = 5`, `k: float = 5.0` [operator, n, k are *optional values*; their *type* and *default value* is specified] <br>
+> - Default syntax: `DBP CP operator n k`; `operator: str = None`, `n: int = 5`, `k: float = 5.0` [operator, n, k are *optional values*; their *type* and *default value* are specified] <br>
 > - **Primitive load**: `CBP CD` - loads the latest submission in an embedded text message <br>
 > - **Complex load**: Corresponding to *Default syntax*; `operator` prefix `recent` or `r`; <br>
 > `n` specifies the *number of retrieved tweets*; `k` specifies their *input interval* (i.e., delay) <br>
