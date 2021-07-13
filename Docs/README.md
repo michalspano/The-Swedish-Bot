@@ -4,13 +4,13 @@
 
 ## Register
 ***
-1. [Introduction](##Introduction)
-2. [Details](##Details)
-3. [Bot commands](##Bot commands)
-   - 3.1. [Status command](###📶|**Status command**)
-   - 3.2. [Load command](###⏬|**Load command**)
-   - 3.3. [Help command](###ℹ️|**Help command**)
-4. [Socials](###📩|Socials)
+1. [Introduction](#introduction)
+2. [Details](#details)
+3. [Bot commands](#bot-commands)
+   - 3.1. [Status command](#--status-command)
+   - 3.2. [Load command](#--load-command)
+   - 3.3. [Help command](#--help-command)
+4. [Socials](#--socials)
 
 ## Introduction
 ***
@@ -20,7 +20,7 @@ I'm also a **Discord Bot** with multiple functions!
 
 ![Discord bot](Assets/bot_status.png)
 
-##Details
+## Details
 ***
 > [*Twitter Profile*](https://twitter.com/TheSwedishBot), [*Google Spreadsheet*](https://docs.google.com/spreadsheets/d/1Y8az4H5XGhBtKizaz6atYyhMCUeVif2c7-hUXNEtlhw/edit?usp=sharing), [*Add to your server*](https://discord.com/api/oauth2/authorize?client_id=860479686156353556&permissions=2148005952&scope=bot) <br>
 > Created via `gspread`, `tweepy`, `discord.py`, `flask`.
