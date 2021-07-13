@@ -2,13 +2,25 @@
 ***
 ![Icon](Assets/swedish_twitter_bot_final.jpeg) <br>
 
+## Register
+***
+1. [Introduction](##Introduction)
+2. [Details](##Details)
+3. [Bot commands](##Bot commands)
+   - 3.1. [Status command](###📶|**Status command**)
+   - 3.2. [Load command](###⏬|**Load command**)
+   - 3.3. [Help command](###ℹ️|**Help command**)
+4. [Socials](###📩|Socials)
+
 ## Introduction
 ***
 Hej! I am the **Swedish Twitter Bot!** <br>
 I *retweet* hourly under #Sweden and #Sverige on **Twitter**! 🇸🇪 <br>
 I'm also a **Discord Bot** with multiple functions!
 
-## Details
+![Discord bot](Assets/bot_status.png)
+
+##Details
 ***
 > [*Twitter Profile*](https://twitter.com/TheSwedishBot), [*Google Spreadsheet*](https://docs.google.com/spreadsheets/d/1Y8az4H5XGhBtKizaz6atYyhMCUeVif2c7-hUXNEtlhw/edit?usp=sharing), [*Add to your server*](https://discord.com/api/oauth2/authorize?client_id=860479686156353556&permissions=2148005952&scope=bot) <br>
 > Created via `gspread`, `tweepy`, `discord.py`, `flask`.
@@ -25,6 +37,8 @@ use my *command prefix or command aliases* (abbreviation **CP**).
 > - Invoke aliases: `Status`, `status` or `s` <br>
 > - Syntax: `DBP CP` <br>
 > - Reports current trends about the database and the latency (ping) status
+> 
+> ![Status command](Assets/status_command_screenshot.png)
 
 ### ⏬ | **Load command**
 > - Invoke aliases: `Load`, `load`, `l` <br>
@@ -33,11 +47,15 @@ use my *command prefix or command aliases* (abbreviation **CP**).
 > - **Complex load**: Corresponding to *Default syntax*; `operator` prefix `recent` or `r`; <br>
 > `n` specifies the *number of retrieved tweets*; `k` specifies their *input interval* (i.e., delay) <br>
 > - E.g., `--load recent 10 2` - loads 10 recent tweets and displays them with a 2 sec. delay
+> 
+> ![Load command](Assets/load_command_screenshot.png)
 
 ### ℹ️ | **Help command**
 > - Invoke aliases: `Help`, `help`, `h` <br>
 > - Syntax: `DBP CP` <br>
 > - Reports possible guidance and appropriate information
+> 
+> ![Help command](Assets/help_command_screenshot.png) 
 
 ### 📩 | Socials
 > 1. [@TheSwedishBot](https://twitter.com/TheSwedishBot) <br>
