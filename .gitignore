@@ -132,7 +132,6 @@ dmypy.json
 keys.txt
 CursorObjects.txt
 secrets.json
-Assets/swedish_twitter_bot_final.jpeg
 
 # Google API secret client
 credentials.json
